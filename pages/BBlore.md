@@ -1,21 +1,23 @@
 ---
 layout: page
-title: Battle Brothers law
-subtitle: A quick history of Battle Brothers/Space marines
+title: Space Marines lore
+subtitle: A quick history of Space Marines
 ---
 
-In the late 30th Millennium, the Emperor of Mankind still walked amongst mortals. In those days, the Emperor first created the Primarchs, 20 immortal superhumans blessed with extraordinary intelligence, charisma and sheer physical might.
-The Primarchs wielded powers the like of which are not known in the Imperium today, yet they were lost to the Warp in an accident, scattered, still in their gestation capsules, through the Immaterium to worlds across the galaxy by the will of the Dark Gods of Chaos.
+In the late 30th Millennium (30k, 792.M30), the Emperor of Mankind still walked amongst mortals. In that time, the Emperor first created the **Primarchs**, 20 immortal superhumans blessed with extraordinary intelligence, charisma and sheer physical might.
+The Primarchs wielded powers the like of which are not known in the Imperium today (40/41st Millennium currently lore wise - hence the name 40k), yet they were lost to the Warp in an accident, still in their gestation capsules, scattered through the Immaterium to worlds across the galaxy by the will of the Dark Gods of Chaos.
 
-The first Space Marines were also the creation of that era, each made using the genetic inheritance of the Primarchs (gene-seeds), and the arcane alchemies the emperor developed allowed generation after generation of Space Marines to be created for the Imperium.
+The first Space Marines were also the creation of that 30k era, each made using the genetic inheritance of the Primarchs (gene-seeds), and the arcane alchemies the emperor developed allowed generation after generation of Space Marines to be created for the Imperium.
 
 _The gene-seed implants are 19 specially grown organ grafts. Some serve to give the Space Marine unique abilities, such as the Betcher's Gland, which allows them to spit poison. Others enhance existing abilities, such as the Sinew Coils, which dramatically increase strength and durability. Implantation of these organs must occur in a precise order._
 
 The Space Marines were originally divided into 20 large Legions created during the First Founding by the Emperor, and each Legion was filled with thousands of Space Marines, separated based on whose gene-seed from each from one of the original Primarchs was used.
+
 When 18 of the 20 original primarchs were rediscovered during the Great Crusade, they became the commanders of whichever was Legion was genetically related to them.
-During the Horus Heresy, half of the Legions turned Traitor to the Imperium and swore themselves to the Ruinous Powers of Chaos, becoming the 9 Traitor Legions of Chaos Space Marines.
-The Horus Heresy devastated the Imperiurn. The damage wrought by the Traitor Legions was so severe that the Emperor's realm never fully recovered. The terrifying power of the Space Marines was shown more clearly than ever before, their fallibility tragically revealed. It was clear to Roboute Guilliman that the Primarchs held too much power, that the awesome might of the Legions was simply too dangerous to place under the control of so few
-individuals. Thus he composed the Codex Astartes. Into it he poured every iota of his deep military and logistical knowledge. No detail in all of the Codex's many thousands of pages was more significant than the decree that the awesome fighting forces of each Legion - which at their height included many tens, or even hundreds of thousands of warriors - be broken down into much smaller brotherhoods called Chapters with a maximum of 1000 space marines. Each of these fighting forces would be independent, with complete autonomy over their actions and recruitment, and have their own heraldry and colours.
+
+During the Horus Heresy (002.M31 onwards, aprox 210 years after the creation of the Primarchs), half of the Primarchs and their Legions turned Traitor to the Imperium and swore themselves to the Ruinous Powers of Chaos, becoming the 9 Traitor Legions of Chaos Space Marines (this is the setting for **_The Horus Heresy_** game, often called 30k) and waged war against the Emperor/Terra for 7 years.
+
+The Horus Heresy devastated the Imperiurn. The damage wrought by the Traitor Legions was so severe that the Emperor's realm never fully recovered. The terrifying power of the Space Marines was shown more clearly than ever before, and, their fallibility tragically revealed. It was clear to Roboute Guilliman (one of the loyal Primarchs) that the Primarchs held too much power, that the awesome might of the Legions was simply too dangerous to place under the control of so few individuals. Thus he composed the Codex Astartes. Into it he poured every iota of his deep military and logistical knowledge. No detail in all of the Codex's many thousands of pages was more significant than the decree that the awesome fighting forces of each Legion - which at their height included many tens, or even hundreds of thousands of warriors - be broken down into much smaller brotherhoods called Chapters with a maximum of 1000 space marines. Each of these fighting forces would be independent, with complete autonomy over their actions and recruitment, and have their own heraldry and colours.
 
 It is now (10 thousand years later) believed that there are over a thousand Space Marine Chapters fighting the Emperor's wars. Nine are named for the original Legions that remained loyal to the Emperor during the Horus Heresy, all others are Successor Chapters, brotherhoods who can claim genetic descent from the nine loyal Primarchs.
 
@@ -32,6 +34,7 @@ OG space marines are commonly referred to as first born space marines. The model
 There is a disdain for the Primaris models by some of the community for a couple reasons:
 
 Lore wise - They are a tacked on “solution to a problem that doesn’t need a solution”. Story wise there has just been the return of Guilliman, a character that is sort of disliked by many players for being the “golden child”, and then we have this newly introduced Deus Ex Mechanicum character of Cawl, a heretic, who has “improved” the emperors design (humans haven't even figured out how the emperor did it in the first place for 10000 years and now someone is doing it BETTER), AND invented new weapons!? And Guilliman didn’t have him shot?
+
 GW Greed - GW wanted to make bigger Space marines, but they knew that people wouldn’t take kindly to them just replacing the old models. The current “first born marine” line is only 5 years old, so replacing it would probably not be a good idea. Secondly they “need” to constantly update Space Marines, to sell more…
 So two problems that needs addressing. GWs solution? Make up a story about bigger and better Marines that is full of holes and is obviously just about making money.
 
