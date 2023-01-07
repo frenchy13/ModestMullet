@@ -1,15 +1,26 @@
 ---
 layout: page
-title: Space Marines lore
+title: Which Space Marines to choose?
 subtitle: A quick history of Space Marines
 ---
+You are probably here because you asked how to start a Space Marine Army. To answer that question you need to be able to answer a few questions:
+
+- Do you want to play Warhammer: The Horus Heresy or Warhammer 40k?
+- Do you want to play a Astartes/loyalist or a Chaos/traitor legion/chapter?
+- If you answer 40k and loyast then do you want to focus on 'regular/first born' or the latest and greatest Primaris Space Marines?
+
+If you cant answer or have no idea what the above refers to then read the lore summary below to get a quick grasp so the community can better help you.
+
+#Lore overview
 
 In the late 30th Millennium (30k, 792.M30), the Emperor of Mankind still walked amongst mortals. In that time, the Emperor first created the **Primarchs**, 20 immortal superhumans blessed with extraordinary intelligence, charisma and sheer physical might.
-The Primarchs wielded powers the like of which are not known in the Imperium today (40/41st Millennium currently lore wise - hence the name 40k), yet they were lost to the Warp in an accident, still in their gestation capsules, scattered through the Immaterium to worlds across the galaxy by the will of the Dark Gods of Chaos.
+The Primarchs wielded powers the like of which are not known in the Imperium of the current timeline progression (40/41st Millennium currently lore wise - hence the name 40k), yet they were lost to the Warp in an accident, still in their gestation capsules, scattered through the Immaterium to worlds across the galaxy by the will of the Dark Gods of Chaos.
 
 The first Space Marines were also the creation of that 30k era, each made using the genetic inheritance of the Primarchs (gene-seeds), and the arcane alchemies the emperor developed allowed generation after generation of Space Marines to be created for the Imperium.
 
 _The gene-seed implants are 19 specially grown organ grafts. Some serve to give the Space Marine unique abilities, such as the Betcher's Gland, which allows them to spit poison. Others enhance existing abilities, such as the Sinew Coils, which dramatically increase strength and durability. Implantation of these organs must occur in a precise order._
+
+![relative sizes](/assets/img/imp_size_comp.png){:class="img-responsive"}
 
 The Space Marines were originally divided into 20 large Legions created during the First Founding by the Emperor, and each Legion was filled with thousands of Space Marines, separated based on whose gene-seed from each from one of the original Primarchs was used.
 
