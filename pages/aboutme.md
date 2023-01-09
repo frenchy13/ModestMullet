@@ -4,7 +4,7 @@ title: About me
 subtitle: Simple person with a simple dream
 ---
 
-I had a modest mullet, now hair loss has robbed me of my power. All that is left is sharing two passions in my life
+I had a modest mullet, now hair loss has robbed me of my power. All that is left is sharing two of the things I enjoy in life:
 
 - Mathematics
 - Table top war games
