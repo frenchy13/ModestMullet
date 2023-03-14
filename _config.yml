@@ -20,14 +20,14 @@ author: Modest Mullet
 ###############################################
 
 navbar-links:
-  About Me: "aboutme"
-  Battle Brothers/Space Marines:
-    - Basic Lore: "/pages/BBlore"
+  Heresy/40k:
+    - Space Marine Basic Lore: "/pages/BBlore"
     - Chapter Summaries: "/pages/chapsum"
-    - Building a Prime Brother Army: "/pages/primebrosarmy"
-  Tao Coallition:
+  OPR GDF/GDFF:
     - Building a Tao Coallition Army: "/pages/taoarmy"
+    - Building a Prime Brother Army: "/pages/primebrosarmy"
   Resources:
+    - About Me: "/pages/aboutme"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://modestmullet.com"
 
