@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Ta'u army build
+title: Dao Union army build
 subtitle: Battlesuits for the win
 ---
 
