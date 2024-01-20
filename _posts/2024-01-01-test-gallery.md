@@ -10,6 +10,4 @@ comments: false
 
 This is a demo post to test a gallery
 
-{% include album.html albumname="snow" %}
-
 {% include image-gallery.html folder="/images/galleryv2/snow" %}
