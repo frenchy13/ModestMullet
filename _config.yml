@@ -292,5 +292,14 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
+mini_magick:
+    photoFolders:
+        source: images/galleryv2
+        destination: thumbnails/images/galleryv2
+        resize: "320x240^"
+        gravity: "center"
+        extent: "320x240"
+
+
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
