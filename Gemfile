@@ -7,3 +7,6 @@ gem "mini_magick"
 gem "exifr"
 
 gemspec
+
+Source “https://rubygems.org”
+gem “ffi”, “= 1.16.3”
