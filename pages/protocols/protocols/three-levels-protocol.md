@@ -23,7 +23,7 @@ This protocol draws on several key theoretical frameworks:
 - [Reflection Template](../templates/three-levels-template.md)
 - Timer
 - Relevant evidence or data
-- [Evidence Collection Guide](../guides/evidence-collection.md)
+- [Evidence Collection Guide](../guides/evidence-collection-guide.md)
 
 ## Detailed Process
 
