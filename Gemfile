@@ -7,4 +7,3 @@ gem "mini_magick"
 gem "exifr"
 
 gemspec
-
