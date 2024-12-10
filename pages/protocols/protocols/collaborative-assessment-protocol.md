@@ -87,7 +87,7 @@ The protocol draws on several theoretical frameworks:
 *Research Note: This reflection phase incorporates elements from Kolb's (1984) experiential learning cycle.*
 
 ## Group Implementation
-[See Group Process Guide](../guides/group-process.md)
+[See Group Process Guide](../guides/group-process-guide.md)
 
 ### Roles
 - Facilitator
@@ -119,7 +119,7 @@ The protocol draws on several theoretical frameworks:
 - Limited reflection time
 
 ## Variations
-[See Protocol Variations Guide](../guides/protocol-variations.md)
+[See Protocol Variations Guide](../guides/protocol-variations-guide.md)
 - Assessment Task Review
 - Curriculum Planning Review
 - Teaching Strategy Analysis

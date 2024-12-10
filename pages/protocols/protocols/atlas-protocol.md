@@ -27,7 +27,7 @@ The protocol is grounded in several theoretical frameworks:
 - Timer
 - [Observation Framework](../guides/observation-framework.md)
 - Note-taking materials
-- [Evidence Collection Guide](../guides/evidence-collection.md)
+- [Evidence Collection Guide](../guides/evidence-collection-guide.md)
 
 ## Detailed Process
 
@@ -89,7 +89,7 @@ The protocol is grounded in several theoretical frameworks:
 *Research Note: The reflection phase incorporates elements from Dewey's (1933) work on reflective thinking.*
 
 ## Group Implementation
-[See Group Process Guide](../guides/group-process.md)
+[See Group Process Guide](../guides/group-process-guide.md)
 
 ### Roles
 - Facilitator
@@ -120,7 +120,7 @@ The protocol is grounded in several theoretical frameworks:
 - Skipping implications
 
 ## Variations
-[See Protocol Variations Guide](../guides/protocol-variations.md)
+[See Protocol Variations Guide](../guides/protocol-variations-guide.md)
 - Video Analysis ATLAS
 - Student Work ATLAS
 - Planning ATLAS

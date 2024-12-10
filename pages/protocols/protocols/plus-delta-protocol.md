@@ -23,7 +23,7 @@ The Plus/Delta protocol is grounded in several theoretical frameworks:
 - [Plus/Delta Template](../templates/plus-delta-template.md)
 - Sticky notes (if doing group reflection)
 - Timer
-- [Evidence Collection Guide](../guides/evidence-collection.md)
+- [Evidence Collection Guide](../guides/evidence-collection-guide.md)
 - Writing materials or digital device
 
 ## Detailed Process
@@ -46,7 +46,7 @@ The Plus/Delta protocol is grounded in several theoretical frameworks:
 
 *Research Note: This appreciative approach aligns with Seligman's (2011) work on positive psychology in educational settings.*
 
-[See Plus Reflection Guide for detailed prompts](../guides/plus-reflection.md)
+[See Plus Reflection Guide for detailed prompts](../guides/plus-reflection-guide.md)
 
 ### 3. Delta Reflection (3-4 minutes)
 **Focus**: What Needs to Change
@@ -58,7 +58,7 @@ The Plus/Delta protocol is grounded in several theoretical frameworks:
 
 *Research Note: This improvement focus draws on Hattie's (2012) work on visible learning and the importance of knowing impact.*
 
-[See Delta Reflection Guide for detailed prompts](../guides/delta-reflection.md)
+[See Delta Reflection Guide for detailed prompts](../guides/delta-reflection-guide.md)
 
 ### 4. Synthesis (2-3 minutes)
 - Identify patterns or themes
@@ -95,7 +95,7 @@ When used in groups:
 - Not following up on identified changes
 
 ## Variations
-[See Protocol Variations Guide](../guides/protocol-variations.md)
+[See Protocol Variations Guide](../guides/protocol-variations-guide.md)
 - Evidence-Based Plus/Delta
 - Student-Focused Plus/Delta
 - Program Evaluation Plus/Delta

@@ -26,7 +26,7 @@ The protocol is grounded in several theoretical frameworks:
 - Implementation timeline
 - Evidence/data collected
 - [Change Documentation Guide](../guides/change-documentation.md)
-- [Evidence Collection Framework](../guides/evidence-collection.md)
+- [Evidence Collection Framework](../guides/evidence-collection-framework.md)
 
 ## Detailed Process
 
@@ -78,7 +78,7 @@ The protocol is grounded in several theoretical frameworks:
 *Research Note: The action planning phase incorporates elements from Hargreaves and Shirley's (2012) work on sustainable educational change.*
 
 ## Group Implementation
-[See Group Process Guide](../guides/group-process.md)
+[See Group Process Guide](../guides/group-process-guide.md)
 
 ### Roles
 - Facilitator
@@ -111,7 +111,7 @@ The protocol is grounded in several theoretical frameworks:
 - Poor documentation
 
 ## Variations
-[See Protocol Variations Guide](../guides/protocol-variations.md)
+[See Protocol Variations Guide](../guides/protocol-variations-guide.md)
 - Curriculum Change Review
 - Technology Implementation Review
 - Policy Implementation Analysis

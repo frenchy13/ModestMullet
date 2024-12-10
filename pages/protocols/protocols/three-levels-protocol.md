@@ -45,7 +45,7 @@ This protocol draws on several key theoretical frameworks:
 
 *Research Note: These questions align with Gibbs' (1988) reflective cycle, particularly the description and evaluation phases.*
 
-[See Surface Level Guide for detailed prompts](../guides/surface-level-reflection.md)
+[See Surface Level Guide for detailed prompts](../guides/surface-level-guide.md)
 
 ### 3. Deeper Level Reflection (5-7 minutes)
 **Focus**: This Term
@@ -57,7 +57,7 @@ This protocol draws on several key theoretical frameworks:
 
 *Research Note: This level incorporates elements of Korthagen's (2004) ALACT model of reflection, particularly the awareness of essential aspects phase.*
 
-[See Deeper Level Guide for detailed prompts](../guides/deeper-level-reflection.md)
+[See Deeper Level Guide for detailed prompts](../guides/deeper-level-guide.md)
 
 ### 4. Core Level Reflection (5-7 minutes)
 **Focus**: This Year/Ongoing Practice
@@ -69,10 +69,10 @@ This protocol draws on several key theoretical frameworks:
 
 *Research Note: This level draws on Kelchtermans' (2009) work on professional self-understanding and career-long reflection.*
 
-[See Core Level Guide for detailed prompts](../guides/core-level-reflection.md)
+[See Core Level Guide for detailed prompts](../guides/core-level-guide.md)
 
 ### 5. Synthesis (3-5 minutes)
-[See Synthesis Guide for detailed process](../guides/synthesis-reflection.md)
+[See Synthesis Guide for detailed process](../guides/synthesis-guide.md)
 
 ## Group Implementation
 When used in small groups (2-4 people):
@@ -101,7 +101,7 @@ When used in small groups (2-4 people):
 - Making action items too vague
 
 ## Variations
-[See Protocol Variations Guide](../guides/protocol-variations.md)
+[See Protocol Variations Guide](../guides/protocol-variations-guide.md)
 
 ## Related Protocols
 - [Plus/Delta Protocol](plus-delta.md) for quick daily reflection

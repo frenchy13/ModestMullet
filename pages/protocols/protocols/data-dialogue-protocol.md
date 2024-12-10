@@ -24,9 +24,9 @@ The protocol draws on several theoretical frameworks:
 - [Data Dialogue Template](../templates/data-dialogue-template.md)
 - Relevant data sets or evidence
 - Timer
-- [Data Organization Guide](../guides/data-organization.md)
+- [Data Organization Guide](../guides/data-organization-guide.md)
 - Chart paper or digital display
-- [Data Visualization Guide](../guides/data-visualization.md)
+- [Data Visualization Guide](../guides/data-visualization-guide.md)
 
 ## Detailed Process
 
@@ -48,7 +48,7 @@ The protocol draws on several theoretical frameworks:
 
 *Research Note: This separation of observation from interpretation is grounded in Schön's (1983) work on reflective practice.*
 
-[See Data Presentation Guide for detailed steps](../guides/data-presentation.md)
+[See Data Presentation Guide for detailed steps](../guides/data-presentation-guide.md)
 
 ### 3. Clarifying Questions (5 minutes)
 **Focus**: Understanding the data
@@ -91,7 +91,7 @@ The protocol draws on several theoretical frameworks:
 *Research Note: This action-planning phase draws on Katz and Dack's (2013) research on professional learning and improvement.*
 
 ## Group Implementation
-[See Group Process Guide](../guides/group-process.md)
+[See Group Process Guide](../guides/group-process-guide.md)
 
 ### Roles
 - Facilitator: Guides process, maintains focus
@@ -123,7 +123,7 @@ The protocol draws on several theoretical frameworks:
 - Not documenting actions
 
 ## Variations
-[See Protocol Variations Guide](../guides/protocol-variations.md)
+[See Protocol Variations Guide](../guides/protocol-variations-guides.md)
 - Student Achievement Data Dialogue
 - Behavioral Data Analysis
 - Program Evaluation Review

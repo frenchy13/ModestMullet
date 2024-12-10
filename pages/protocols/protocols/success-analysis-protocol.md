@@ -24,8 +24,8 @@ The protocol is grounded in several theoretical frameworks:
 - [Success Analysis Template](../templates/success-analysis-template.md)
 - Writing materials
 - Timer
-- [Success Documentation Guide](../guides/success-documentation.md)
-- [Evidence Collection Guide](../guides/evidence-collection.md)
+- [Success Documentation Guide](../guides/success-documentation-guide.md)
+- [Evidence Collection Guide](../guides/evidence-collection-guide.md)
 
 ## Detailed Process
 
@@ -39,7 +39,7 @@ The protocol is grounded in several theoretical frameworks:
 
 *Research Note: The importance of narrative in professional learning is supported by Clandinin and Connelly's (2000) work on teacher knowledge and narrative inquiry.*
 
-[See Success Story Guide for prompts](../guides/success-story.md)
+[See Success Story Guide for prompts](../guides/success-story-guide.md)
 
 ### 2. Small Group Sharing (3-4 minutes per person)
 **Focus**: Presenting Success Stories
@@ -74,7 +74,7 @@ The protocol is grounded in several theoretical frameworks:
 *Research Note: The transfer of learning principles is based on Perkins and Salomon's (2012) research on transfer and adaptation.*
 
 ## Group Implementation
-[See Group Process Guide](../guides/group-process.md)
+[See Group Process Guide](../guides/group-process-guide.md)
 
 ### Optimal Conditions
 - Small groups (2-4 people)
@@ -106,7 +106,7 @@ The protocol is grounded in several theoretical frameworks:
 - Missing success factors
 
 ## Variations
-[See Protocol Variations Guide](../guides/protocol-variations.md)
+[See Protocol Variations Guide](../guides/protocol-variations-guide.md)
 - Student Success Analysis
 - Program Success Review
 - Innovation Success Study
